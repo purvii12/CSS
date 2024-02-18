@@ -1,0 +1,41 @@
+div{height:200px;
+    width:500px;
+    border-width:5px;
+    border-style:solid;
+    border-color:black;}
+    #outer{
+        height:200px;
+        width:70px;
+        border: 2px solid black
+    }
+    div div{
+         height:50px;
+        width:50px;
+        border: 2px solid black;
+        margin:10px;
+        border-radius:50px;
+    }
+    #d{background-color:red;}
+    #dd{background-color:yellow;}
+    #ddd{background-color:green;}
+    
+    #asi{
+        height:150px;
+        width:300px;
+        background-color: grey;
+        border:5px dotted black ;
+        margin-top:20px;
+        margin-right:1em;
+        margin-bottom:40px;
+        margin-left:2em;
+        padding:1em}
+    
+    .k{
+        height:100px;
+        width:100px;
+        border:2px solid black;
+        border-radius:50px;
+        display:inline-block;
+        background-color:pink;
+    }
+    li{display:inline;}
